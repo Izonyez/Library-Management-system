@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636108660 source:c:\users\student\documents\izoo sirengo\library management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
